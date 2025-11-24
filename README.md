@@ -88,7 +88,7 @@ cd Monthly_Saving_Spending_Analyzer
 2. Run the script:
 
 ```bash
-python main.py
+python financial_analyzer.py
 ```
 
 ---
